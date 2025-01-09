@@ -1,8 +1,6 @@
 CP viewer of the works of Kei Morisue
+originial version:
 
-
-
-#originial version
 ## CreasePatterensGallery
 CP images / source online viewer.
 
