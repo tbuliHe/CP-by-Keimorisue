@@ -1,5 +1,4 @@
-CP viewer of the works of Kei Morisue
-originial version:
+CP viewer of the works of Kei Morisue. originial readme is following:
 
 ## CreasePatterensGallery
 CP images / source online viewer.
